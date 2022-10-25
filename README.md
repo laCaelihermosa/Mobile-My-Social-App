@@ -1,0 +1,3 @@
+This is my own version of social media App... made it with the Odins Project and Freecodecamps lessons...
+
+- Use of Font Awesome icons within my assignment Kit 
